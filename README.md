@@ -6,20 +6,20 @@ Developed as the **Graduation Project (GP)** of the **Digital Egypt Pioneers Ini
 under the supervision of **Eng. Mahmoud Talaat**  
 by **Rehab Hamdy**, **Marina Safwat**, and **Alaa Mohsen**.
 
-
 ---
 
 ## 📑 Table of Contents
-1. [Introduction](#introduction)
-2. [Problem Statement](#problem-statement)
-3. [Dataset](#dataset)
-4. [Proposed Methodology](#proposed-methodology)
-5. [Models Used](#models-used)
-6. [Results](#results)
-7. [3D Segmentation Extension](#3d-segmentation-extension)
-8. [Conclusion](#conclusion)
-9. [Future Work](#future-work)
-10. [Demo Video](#demo-video)
+1. [Introduction](#-introduction)
+2. [Problem Statement](#-problem-statement)
+3. [Dataset](#-dataset)
+4. [Proposed Methodology](#-proposed-methodology)
+5. [Models Used](#-models-used)
+6. [Results](#-results)
+7. [3D Segmentation](#-3d-segmentation)
+8. [Conclusion](#-conclusion)
+9. [Future Work](#-future-work)
+10. [Website Development](#-website-development-for-real-world-use)
+11. [Demo Video](#-demo-video)
 
 ---
 
@@ -106,7 +106,6 @@ Accurate, automated segmentation is essential for faster and more reliable diagn
 | **ResUNet** | Hybrid | Segmentation | Adds residual connections for higher Dice Score |
 | **VGG16-UNet** | Deep CNN | Segmentation | Deeper feature extraction, slight underperformance vs ResUNet |
 
-
 ---
 
 ## 📈 Results
@@ -119,7 +118,6 @@ Accurate, automated segmentation is essential for faster and more reliable diagn
 
 **Classification (ResNet-50)** → 95.5 % accuracy.  
 **Best 2D Model** → ResUNet.
-
 
 ![Segmentation Outputs](./assets/segmentation_sample_1.png)
 ![Segmentation Outputs](./assets/segmentation_samples_2.png)
@@ -144,7 +142,6 @@ While 2D models process slices independently, **3D U-Net** analyzes the **entire
 | **IoU** | 0.7742 | 0.6636 |
 
 ![3D Visualization](./assets/3d_visualization.png)
-
 
 ---
 
@@ -173,8 +170,8 @@ Below are examples comparing predicted vs. ground truth segmentations for differ
 - Integrate **post-segmentation analytics** (tumor growth prediction, survival analysis).
 
 ---
-## 🌐 Website Development for Real-World Use
 
+## 🌐 Website Development for Real-World Use
 We have built a **complete website for doctors and patients**, translating our AI research into a real, usable medical tool.
 
 **🧩 NeuroVision Platform**
@@ -184,8 +181,9 @@ We have built a **complete website for doctors and patients**, translating our A
 - A built-in **medical chatbot** answers brain-tumor–related questions for better patient education.
 - **Data analytics and patient insights** improve diagnostic accuracy and enhance doctor–patient communication.
 
- 
-## 🎥 Demo Video
-```
+![NeuroVision Website](./assets/neurovision_website.png)
+
+---
+
 ## 🎥 Demo Video
 [![Watch the Demo](https://img.youtube.com/vi/-fBfdFjamcQ/maxresdefault.jpg)](https://youtu.be/-fBfdFjamcQ)
