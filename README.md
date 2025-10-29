@@ -120,6 +120,9 @@ Accurate, automated segmentation is essential for faster and more reliable diagn
 **Best 2D Model** → ResUNet.
 
 ![Segmentation Outputs](./assets/segmentation_sample_1.png)
+
+-----
+
 ![Segmentation Outputs](./assets/segmentation_samples_2.png)
 
 ---
@@ -181,7 +184,6 @@ We have built a **complete website for doctors and patients**, translating our A
 - A built-in **medical chatbot** answers brain-tumor–related questions for better patient education.
 - **Data analytics and patient insights** improve diagnostic accuracy and enhance doctor–patient communication.
 
-![NeuroVision Website](./assets/neurovision_website.png)
 
 ---
 
