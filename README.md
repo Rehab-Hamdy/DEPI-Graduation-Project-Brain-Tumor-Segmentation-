@@ -121,9 +121,6 @@ Accurate, automated segmentation is essential for faster and more reliable diagn
 
 ![Segmentation Outputs](./assets/segmentation_sample_1.png)
 
------
-
-![Segmentation Outputs](./assets/segmentation_samples_2.png)
 
 ---
 
