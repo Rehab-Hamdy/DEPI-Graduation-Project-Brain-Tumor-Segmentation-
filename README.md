@@ -37,6 +37,9 @@ This study integrates:
 - A **3D-U-Net** architecture for full volumetric segmentation.
 
 ![MRI with_Tumor](./assets/intro_mri_comparison_1.png)
+
+----
+
 ![MRI without_Tumor](./assets/intro_mri_comparison_2.png)
 
 ---
@@ -57,7 +60,7 @@ Accurate, automated segmentation is essential for faster and more reliable diagn
 
 ### 2D Dataset 
 > 🧠 **Dataset Source:**  
-> [MRI Brain Tumor Dataset (Kaggle)]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation))
+> [MRI Brain Tumor Dataset (Kaggle)](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 
 - **Total images:** 4,000 MRI scans.
 - **Annotation:** Tumor regions manually labeled.
@@ -184,4 +187,5 @@ We have built a **complete website for doctors and patients**, translating our A
  
 ## 🎥 Demo Video
 ```
-[🎬 Watch the Demo on YouTube](https://youtu.be/-fBfdFjamcQ)
+## 🎥 Demo Video
+[![Watch the Demo](https://img.youtube.com/vi/-fBfdFjamcQ/maxresdefault.jpg)](https://youtu.be/-fBfdFjamcQ)
