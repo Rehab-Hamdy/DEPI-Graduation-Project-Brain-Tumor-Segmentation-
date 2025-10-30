@@ -181,8 +181,3 @@ We have built a **complete website for doctors and patients**, translating our A
 - A built-in **medical chatbot** answers brain-tumor–related questions for better patient education.
 - **Data analytics and patient insights** improve diagnostic accuracy and enhance doctor–patient communication.
 
-
----
-
-## 🎥 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/-fBfdFjamcQ/maxresdefault.jpg)](https://youtu.be/-fBfdFjamcQ)
